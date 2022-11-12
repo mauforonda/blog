@@ -14,7 +14,7 @@ El 8 de noviembre el [Instituto Nacional de Estadística](https://www.ine.gob.bo
 
 Una sorpresa agradable es que estos datos incluyen el código de cada municipio, lo cual no es común y facilita combinarlos con otras tablas. La aplicación más obvia es construir un mapa, así que ya hice un [cuaderno en observable](https://observablehq.com/d/76647fe240cadd76) que consume estos datos y los muestra geográficamente. En caso que el INE actualice estos datos, podría programar al menos una vista a la serie de tiempos y una proyección super simple de cuándo debería terminar con todas las áreas en el país.
 
-![[images/Pasted image 20221112083652.png]]
+![[images/Pasted image 20221112104928.png]]
 
 **Cómo encontré estos datos?** No podía dormir así que me puse a revisar novedades recientes en mi [registro diario de servidores geográficos](https://github.com/mauforonda/geodatos/). Estos datos aparecieron por primera vez [en la madrugada del 9 de noviembre](https://github.com/mauforonda/geodatos/commit/cd567cf18a7ac6f92f527a7a31ca144bb9e250d7#diff-cb0da279bda65c03ccd31ff71d5dc8b79a9cb0651527903bdf836880fa2f493bR2796). Obviamente, sólo viendo el nombre `seguimiento:vw_ac_2021_cartografia` nadie podría saber de qué trata así que consulto ese nombre en mi [visor de mapas](https://observablehq.com/@mauforonda/datos-geograficos-del-gobierno-boliviano) y voilà! veo un mapa similar al que terminé reproduciendo. Las pistas principales eran que el servicio donde se subieron los datos pertenece al INE (SIGED) y el nombre de la capa incluye `ac`. Al INE le encanta nombrar artefactos en su infraestructura con acrónimos de los proyectos a los que están dedicados, por ejemplo `eh` para Encuesta de Hogares o `ac` para Actualización Cartográfica. 
 
