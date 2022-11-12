@@ -3,4 +3,4 @@ title: mauforonda
 enableToc: false
 ---
 
-Algunas [[Hola|ideas iniciales]].
+Algunas [[notes/Hola|ideas]] sobre qué podría ser este espacio.
