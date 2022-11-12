@@ -1,5 +1,5 @@
 ---
-title: "Una nueva fuente para avances en la actualización cartográfica"
+title: "Más datos de la Actualización Cartográfica"
 date: 2022-11-12
 tags: 
 - censo
