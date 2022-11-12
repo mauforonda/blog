@@ -1,7 +1,9 @@
 ---
 title: "Una nueva fuente para avances en la actualización cartográfica"
 date: 2022-11-12
-tags: censo, bolivia
+tags: 
+- censo
+- bolivia
 ---
 
 El 8 de noviembre el [Instituto Nacional de Estadística](https://www.ine.gob.bo/) (INE) publicó una capa geográfica con datos del avance en la actualización cartográfica a nivel municipal. En particular nos dice cuántas áreas de trabajo están planificadas y cuántas ya se han concluido o están en proceso. La división entre estos dos valores es el *porcentaje de avance* que el INE comunica en sus reportes orales. Los datos en esta capa son coherentes con información en notas de prensa recientes.
