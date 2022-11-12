@@ -1,0 +1,16 @@
+.titlebar-button-container.mod-right {
+    display: none;
+}
+
+.theme-light {
+    --text-highlight-bg: #D1E7E8;
+    --text-normal: #555;
+}
+
+.theme-dark {
+    --text-highlight-bg: #577273;
+}
+
+.mod-linux {
+    --frame-right-space: 8px;
+}

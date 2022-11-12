@@ -1,0 +1,9 @@
+public
+resources
+.idea
+content/.obsidian/*
+!content/.obsidian/snippets/
+!content/.obsidian/graph.json
+assets/indices/linkIndex.json
+assets/indices/contentIndex.json
+linkmap

@@ -1,0 +1,29 @@
+name: Mauricio Foronda
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: false
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+GitHubLink: https://github.com/mauforonda/blog/tree/master/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+  Las notas públicas de Mauricio Foronda 🌱
+page_title:
+  "mauforonda"
+links:
+  - link_name: RSS
+    link: https://mauforonda.github.io/blog/index.xml
+  - link_name: Twitter
+    link: https://twitter.com/mauforonda
+  - link_name: Github
+    link: https://github.com/mauforonda
+  - link_name: Observable
+    link: https://observablehq.com/@mauforonda
