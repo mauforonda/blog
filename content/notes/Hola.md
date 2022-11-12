@@ -1,7 +1,7 @@
 ---
 title: "Hola"
 date: 2022-11-11
-tags: 
+tags: meta
 ---
 
 Éste es un espacio para construir ideas.
