@@ -12,6 +12,8 @@ El 8 de noviembre el [Instituto Nacional de Estadística](https://www.ine.gob.bo
 
 **El INE actualiza estos datos?** No sé, pero tengo mucha curiosidad así que ya escribí [código](https://github.com/mauforonda/canceles_elevando/blob/4cdd650665e06c8306eca34e351ee69a0115dcf3/update/areas_cartografia.py) para consultar la fuente [cada media noche](https://github.com/mauforonda/canceles_elevando/blob/4cdd650665e06c8306eca34e351ee69a0115dcf3/.github/workflows/update.yml#L4) y construir una [serie diaria](https://github.com/mauforonda/canceles_elevando/blob/master/data/cartografia/areas_concluidas_o_en_proceso.csv). La fecha en esta serie hace referencia al día que termina. 
 
+**Actualización** : el INE [sí mantiene estos datos al día](https://github.com/mauforonda/canceles_elevando/commit/bf5140e71c970e92e0da57f4cd07c66b103d4950) ✨
+
 Una sorpresa agradable es que estos datos incluyen el código de cada municipio, lo cual no es común y facilita combinarlos con otras tablas. La aplicación más obvia es construir un mapa, así que ya hice un [cuaderno en observable](https://observablehq.com/d/76647fe240cadd76) que consume estos datos y los muestra geográficamente. En caso que el INE actualice estos datos, podría programar al menos una vista a la serie de tiempos y una proyección super simple de cuándo debería terminar con todas las áreas en el país.
 
 ![[images/Pasted image 20221112104928.png]]
