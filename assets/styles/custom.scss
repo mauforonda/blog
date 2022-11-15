@@ -51,8 +51,11 @@ hr {
   opacity: .1 
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
   article h1 {
     font-size: 2em; 
+  }
+  p { 
+    font-size: .85em;
   }
 }
